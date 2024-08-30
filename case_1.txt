@@ -1,4 +1,7 @@
 Case_1
 Trial Defender 
 Trial Prosecuter
-Investigate with CM
+Investigate with CBI
+Case Solved
+CASE CLOSED
+Court Dismiss
